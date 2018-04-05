@@ -1,0 +1,13 @@
+{
+ "require": {
+ "gabordemooij/redbean": "dev-master",
+  "league/csv": "^9.0",
+  "nategood/commando": "*",
+  "codecasts/nusoap-php7": "^0.9.7"
+ },
+    "autoload": {
+        "psr-4": {
+            "Msqueeg\\" : "lib/"
+        }
+    }
+}
